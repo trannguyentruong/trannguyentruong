@@ -5,7 +5,7 @@ Nguyen Truong - @trannguyentruong
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trannguyentruong&card_width=445&layout=compact&langs_count=10&theme=vue-dark)
 <h2>Languages and tools</h2>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left" style="background-color: white"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
   </a> 
