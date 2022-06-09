@@ -27,7 +27,6 @@ Nguyen Truong - @trannguyentruong
                 <imh src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
                 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
                 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&amp;logo=microsoft%20sql%20server&amp;logoColor=white" alt="MicrosoftSQLServer">
-                <img src="https://img.shields.io/badge/NodeJS-%2300599C.svg?style=for-the-badge&logo=nodejs" alt="NodeJS">
             </td>
         </tr>
         <tr>
